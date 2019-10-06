@@ -2,6 +2,11 @@ package com.java.leetcode;
 
 import static jdk.nashorn.internal.objects.NativeMath.min;
 
+/**
+ * 编写一个程序，找出第 n 个丑数。
+ *
+ * 丑数就是只包含质因数 2, 3, 5 的正整数。
+ */
 public class nthUglyNumber {
 
 
